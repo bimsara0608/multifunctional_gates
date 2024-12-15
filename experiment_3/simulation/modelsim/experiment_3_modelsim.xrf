@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.0/exam prep/multifunctional_gates/experiment_3/experiment_3.vhd
+source_file = 1, C:/altera/13.0/exam prep/multifunctional_gates/experiment_3/db/experiment_3.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = experiment_3
+instance = comp, \A~input\, A~input, experiment_3, 1
+instance = comp, \X~output\, X~output, experiment_3, 1
+instance = comp, \E~input\, E~input, experiment_3, 1
+instance = comp, \F~input\, F~input, experiment_3, 1
+instance = comp, \D~input\, D~input, experiment_3, 1
+instance = comp, \C~input\, C~input, experiment_3, 1
+instance = comp, \B~input\, B~input, experiment_3, 1
+instance = comp, \X~0\, X~0, experiment_3, 1
+instance = comp, \X~1\, X~1, experiment_3, 1

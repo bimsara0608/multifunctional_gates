@@ -1,0 +1,11 @@
+|experiment_2
+A => P.IN0
+A => S.IN0
+B => P.IN1
+B => S.IN1
+Cin => Sum.IN1
+Cin => R.IN1
+Sum <= Sum.DB_MAX_OUTPUT_PORT_TYPE
+Carry <= Carry.DB_MAX_OUTPUT_PORT_TYPE
+
+

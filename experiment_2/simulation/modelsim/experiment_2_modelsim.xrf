@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.0/exam prep/multifunctional_gates/experiment_2/experiment_2.vhd
+source_file = 1, C:/altera/13.0/exam prep/multifunctional_gates/experiment_2/db/experiment_2.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = experiment_2
+instance = comp, \Sum~output\, Sum~output, experiment_2, 1
+instance = comp, \Carry~output\, Carry~output, experiment_2, 1
+instance = comp, \A~input\, A~input, experiment_2, 1
+instance = comp, \B~input\, B~input, experiment_2, 1
+instance = comp, \Cin~input\, Cin~input, experiment_2, 1
+instance = comp, \Sum~0\, Sum~0, experiment_2, 1
+instance = comp, \Carry~0\, Carry~0, experiment_2, 1
